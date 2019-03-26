@@ -1,0 +1,81 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 05-feb-2019, 21:41:10
+    Author     : hely
+*/
+.caja {
+	margin: auto;
+	max-width: 800px;
+	width: 90%;
+}
+ 
+.principal {
+	background: #F44336;
+	border-top: 20px solid #D32F2F;
+	color: #fff;
+	padding: 50px 0;
+	width: 100%;
+}
+ 
+.principal .formulario {
+	color: #212121;
+	text-align: center;
+}
+ 
+.principal .formulario input[type=text] {
+	margin-bottom: 20px;
+	padding: 10px;
+	width: 100%;
+}
+ 
+.principal .formulario input[type=text].error {
+	border: 5px solid #D32F2F;
+	color: red;
+}
+ 
+.principal .formulario .boton {
+	background: none;
+	border: 1px solid #D32F2F;
+	color: #fff;
+	display: inline-block;
+	font-size: 16px;
+	padding: 15px;
+}
+ 
+.principal .formulario .boton:hover {
+	border: 1px solid #fff;
+}
+
+ul{
+    display: inline;
+    display: inline;
+    margin-left: 0px;
+    margin-right: 0px; 
+    list-style-type: none;
+}
+ul a { 
+  text-decoration: none;
+  background-position: center;
+  padding-right: 22px;
+  padding-left: 22px;
+  display: inline;
+  line-height: 25px;
+  font-family: Copperplate Gothic Light, sans-serif;
+  font-size: 15px;
+  color: #808000;
+ }
+ li{
+     display: inline;
+     border-bottom: 10px;
+     border-right: 20px;
+     border-bottom-style: ridge;
+ }
+ nav{
+     margin-left: 1100px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+ }

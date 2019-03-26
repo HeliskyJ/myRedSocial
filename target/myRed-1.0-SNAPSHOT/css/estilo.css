@@ -1,0 +1,44 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06-dic-2018, 9:44:40
+    Author     : hely
+*/
+.conten div{
+	background: none; 
+	border-style:  none;
+	border-radius: 10px;   
+	padding: 50px; 
+	margin-top: 0px;
+        margin-left: 350px;
+        margin-right: 650px;
+	text-align: center;
+	font-family: cursive;
+}
+.conten:hover div{
+    font-family: impact;
+   background-color: #ba9d8f;
+   background:  #f2f2f2;
+   font-size: 15px;
+}
+.hola a{
+	background-color: #eee;
+	border-style: solid;
+	border-collapse: unset;
+	padding: 30px;
+	text-align: center;
+	font-family: fantasy;
+	
+}
+
+
+/* section{
+    border     : none;
+    padding    : 350px;
+    background :none;
+    margin-top :15px;
+    margin-bottom: 350px;
+ }*/
